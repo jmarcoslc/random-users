@@ -1,0 +1,11 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+
+$card-padding-bottom: 2.5rem;
+
+.home {
+    .user-card {
+        padding-bottom: $card-padding-bottom;
+    }    
+}

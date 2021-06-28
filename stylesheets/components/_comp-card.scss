@@ -1,0 +1,15 @@
+$width: 320px;
+$max-width: 100%;
+$border: 1px solid rgba(#000, .12);
+$card-padding: 10px;
+
+.comp-card {
+    .card {
+        padding: $card-padding;
+    }
+
+    ul {
+        list-style: none;
+        padding: unset;
+    }
+}

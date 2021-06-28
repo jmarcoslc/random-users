@@ -1,0 +1,19 @@
+$padding: 20px;
+$header-background-color: #e4e4e4;
+$footer-background-color: $header-background-color;
+
+.ly-default {
+    .header {
+        background-color: $header-background-color;
+        padding: $padding;
+    }
+
+    .body {
+        padding: $padding;
+    }
+
+    .footer {
+        background-color: $footer-background-color;
+        padding: $padding;
+    }
+}
